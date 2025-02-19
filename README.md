@@ -15,4 +15,9 @@ Nombre de la GPU: NVIDIA GeForce RTX xxxx
 
 # librerias
 https://developer.nvidia.com/cuda-gpus
+
 https://rocm.docs.amd.com/projects/install-on-linux/en/latest/reference/system-requirements.html
+
+https://developer.nvidia.com/cudnn-downloads
+
+https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
