@@ -1,5 +1,5 @@
 # instalar y activar el entorno virtual
-virtualenv env
+/virtualenv env      /env/Scripts/activate.bat
 
 # requerimientos para Python 10 / CUDA 11.8 CUDNN 8.2.1
 pip install torch==2.1.2+cu118 torchvision==0.16.2+cu118 torchaudio==2.1.2+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
