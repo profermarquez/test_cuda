@@ -12,3 +12,7 @@ GPUs disponibles (TensorFlow): 1
 ¿CUDA disponible? (PyTorch): True
 Número de GPUs: 1
 Nombre de la GPU: NVIDIA GeForce RTX xxxx
+
+# librerias
+https://developer.nvidia.com/cuda-gpus
+https://rocm.docs.amd.com/projects/install-on-linux/en/latest/reference/system-requirements.html
